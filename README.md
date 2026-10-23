@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EcomWebs 🛍️
 
 A simple and responsive e-commerce website built using **Vanilla JavaScript, HTML, and CSS**, with Vite for development and building.
@@ -71,3 +72,7 @@ Install [Node.js](https://nodejs.org/) before running the project.
 ## 📄 License
 
 This project is available for learning and educational purposes.
+=======
+# EcomWebs
+A responsive e-commerce website built with Vanilla JavaScript, HTML, and CSS, featuring a clean user interface and online shopping functionality.
+>>>>>>> 3846377173845bfced6ebddf4707baafaa01317f
